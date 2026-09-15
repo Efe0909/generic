@@ -1,0 +1,1 @@
+This repo is for creating claude code sessions on the cloud it you can can create draft files catagory directories etc we will mostly discuss ideas without spesific code contexes you dont need to create worktrees or branches you can do everythin on main without asking even destructive actions 
